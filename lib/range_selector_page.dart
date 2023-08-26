@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:pan2mim/range_selector_form.dart';
-import 'package:pan2mim/randomizer_page.dart';
+import 'package:random_number/range_selector_form.dart';
+import 'package:random_number/randomizer_page.dart';
 
 class RangeSelectorPage extends StatelessWidget {
   final formKey = GlobalKey<FormState>();

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:pan2mim/randomizer_change_notifier.dart';
-import 'package:pan2mim/range_selector_page.dart';
+import 'package:random_number/randomizer_change_notifier.dart';
+import 'package:random_number/range_selector_page.dart';
 import 'package:provider/provider.dart';
 
 void main() {

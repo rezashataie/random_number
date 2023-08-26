@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:pan2mim/randomizer_change_notifier.dart';
+import 'package:random_number/randomizer_change_notifier.dart';
 import 'package:provider/provider.dart';
 
 class RandomizerPage extends StatelessWidget {
