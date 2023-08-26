@@ -1,6 +1,6 @@
-# pan2mim
+# random_number
 
-A family entertainment
+generate a random number between a range
 
 ## Getting Started
 
