@@ -21,6 +21,7 @@ class RangeSelectorForm extends StatelessWidget {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
+            const Text('Select Your Range'),
             RangeSelectorTextFormField(
               labelText: 'Minimum',
               intValueSetter: (value) => context.read<RandomizerChangeNotifier>().min = value,
